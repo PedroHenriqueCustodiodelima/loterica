@@ -237,6 +237,3 @@ elif menu == "Visualização de Bolões":
     visualizar_boloes()
 elif menu == "Cadastro Cliente":
     cadastro_cliente()
-
-
-
